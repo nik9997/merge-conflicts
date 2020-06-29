@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Resume .NET developer"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,13 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Surftocat"
-resume_title:                   "Professional Surfer"
-resume_contact_email:           "surftocat@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Diego, California"
-resume_header_contact_info: "San Diego, California | 1-(877)-448-4820 | surftocat@github.com"
-resume_header_intro: "<p>Professional Surfer, 'nuff said.</p>"
+
+resume_name:                    "Nikita Tatarnikov"
+resume_title:                   ".NET developer"
+resume_contact_email:           "fiziknikita@gmail.com"
+resume_contact_telephone:       "+375(33)6423434"
+resume_contact_address:         "Belarus,Brest"
+resume_header_contact_info: "Belarus,Brest | +375(33)6423434 | fiziknikita@gmail.com"
+resume_header_intro: "<p>I know .NET and physics.</p>"
+
+
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
